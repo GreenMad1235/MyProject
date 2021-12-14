@@ -1,0 +1,7 @@
+X:\C#_Std\CodeGrey\CodeGrey\CodeGrey\bin\Debug\CodeGrey.exe.config
+X:\C#_Std\CodeGrey\CodeGrey\CodeGrey\bin\Debug\CodeGrey.exe
+X:\C#_Std\CodeGrey\CodeGrey\CodeGrey\bin\Debug\CodeGrey.pdb
+X:\C#_Std\CodeGrey\CodeGrey\CodeGrey\obj\Debug\CodeGrey.csprojAssemblyReference.cache
+X:\C#_Std\CodeGrey\CodeGrey\CodeGrey\obj\Debug\CodeGrey.csproj.CoreCompileInputs.cache
+X:\C#_Std\CodeGrey\CodeGrey\CodeGrey\obj\Debug\CodeGrey.exe
+X:\C#_Std\CodeGrey\CodeGrey\CodeGrey\obj\Debug\CodeGrey.pdb
