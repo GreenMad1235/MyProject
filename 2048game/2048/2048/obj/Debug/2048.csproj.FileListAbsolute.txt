@@ -1,0 +1,7 @@
+X:\C#_Std\2048game\2048\2048\bin\Debug\2048.exe.config
+X:\C#_Std\2048game\2048\2048\bin\Debug\2048.exe
+X:\C#_Std\2048game\2048\2048\bin\Debug\2048.pdb
+X:\C#_Std\2048game\2048\2048\obj\Debug\2048.csprojAssemblyReference.cache
+X:\C#_Std\2048game\2048\2048\obj\Debug\2048.csproj.CoreCompileInputs.cache
+X:\C#_Std\2048game\2048\2048\obj\Debug\2048.exe
+X:\C#_Std\2048game\2048\2048\obj\Debug\2048.pdb
