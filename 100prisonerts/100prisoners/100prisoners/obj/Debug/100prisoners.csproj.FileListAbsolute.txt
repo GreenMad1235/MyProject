@@ -1,0 +1,7 @@
+X:\C#_Std\100prisonerts\100prisoners\100prisoners\bin\Debug\100prisoners.exe.config
+X:\C#_Std\100prisonerts\100prisoners\100prisoners\bin\Debug\100prisoners.exe
+X:\C#_Std\100prisonerts\100prisoners\100prisoners\bin\Debug\100prisoners.pdb
+X:\C#_Std\100prisonerts\100prisoners\100prisoners\obj\Debug\100prisoners.csprojAssemblyReference.cache
+X:\C#_Std\100prisonerts\100prisoners\100prisoners\obj\Debug\100prisoners.csproj.CoreCompileInputs.cache
+X:\C#_Std\100prisonerts\100prisoners\100prisoners\obj\Debug\100prisoners.exe
+X:\C#_Std\100prisonerts\100prisoners\100prisoners\obj\Debug\100prisoners.pdb
