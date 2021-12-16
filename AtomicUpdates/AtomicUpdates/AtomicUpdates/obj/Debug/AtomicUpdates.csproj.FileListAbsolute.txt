@@ -1,0 +1,7 @@
+X:\C#_Std\AtomicUpdates\AtomicUpdates\AtomicUpdates\bin\Debug\AtomicUpdates.exe.config
+X:\C#_Std\AtomicUpdates\AtomicUpdates\AtomicUpdates\bin\Debug\AtomicUpdates.exe
+X:\C#_Std\AtomicUpdates\AtomicUpdates\AtomicUpdates\bin\Debug\AtomicUpdates.pdb
+X:\C#_Std\AtomicUpdates\AtomicUpdates\AtomicUpdates\obj\Debug\AtomicUpdates.csprojAssemblyReference.cache
+X:\C#_Std\AtomicUpdates\AtomicUpdates\AtomicUpdates\obj\Debug\AtomicUpdates.csproj.CoreCompileInputs.cache
+X:\C#_Std\AtomicUpdates\AtomicUpdates\AtomicUpdates\obj\Debug\AtomicUpdates.exe
+X:\C#_Std\AtomicUpdates\AtomicUpdates\AtomicUpdates\obj\Debug\AtomicUpdates.pdb
